@@ -1,13 +1,13 @@
 {
-    "name": "rappasoft/lockout",
-    "description": "Put your Laravel application into read-only mode.",
+    "name": "magentron/laravel-lockout",
+    "description": "Put your Laravel application into read-only mode. (forked from rappasoft/lockout)",
     "keywords": [
         "rappasoft",
         "lockout",
         "read-only",
         "laravel"
     ],
-    "homepage": "https://github.com/rappasoft/lockout",
+    "homepage": "https://github.com/magentron/laravel-lockout",
     "license": "MIT",
     "type": "library",
     "authors": [

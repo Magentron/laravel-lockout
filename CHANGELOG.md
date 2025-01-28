@@ -4,6 +4,12 @@ All notable changes to `lockout` will be documented in this file
 
 ## [Unreleased]
 
+## [6.0.0] - 2025-01-28
+
+### Added
+
+- Laravel 11 Support
+
 ## [5.0.0] - 2023-04-11
 
 ### Added
